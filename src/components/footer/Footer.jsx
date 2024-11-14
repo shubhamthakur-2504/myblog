@@ -1,14 +1,14 @@
-import React from 'react'
+// import React from 'react'
 
-export default function Footer() {
-  return (
-    <div>
-      <h1>Footer</h1>
-    </div>
-  )
-}
+// export default function Footer() {
+//   return (
+//     <div>
+//       <h1>Footer</h1>
+//     </div>
+//   )
+// }
 
-/* 
+
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Logo from '../Logo'
@@ -152,4 +152,3 @@ function Footer() {
 }
 
 export default Footer
-*/ 

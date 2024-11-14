@@ -6,5 +6,11 @@ import LogoutBtn from "./header/LogoutBtn";
 import Button from "./Button";
 import Input from "./Input";
 import Select from "./Select";
+import RTE from "./RTE";
+import Signup from "./SignUp";
+import Login from "./Login";
+import PostForm from "./postform/PostForm";
+import PostCard from "./PostCard";
+import ProtectedRoute from "./ProtectedRoute";
 
-export { Header, Footer , Container, Logo , LogoutBtn, Button, Input, Select };
+export { Header, Footer , Container, Logo , LogoutBtn, Button, Input, Select, RTE, Signup, Login, PostForm, PostCard, ProtectedRoute };

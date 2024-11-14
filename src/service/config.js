@@ -117,7 +117,7 @@ export class Service{
         }
     }
 
-    getFilePreview(fileId){
+    getImgPreview(fileId){
         try {
             return this.bucket.getFilePreview(
                 setup.appwriteBucketId,

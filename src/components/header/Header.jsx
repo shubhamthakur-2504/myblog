@@ -12,14 +12,20 @@ export default function Header() {
     active:true
     },
     {
+      name:'All posts',
+      path:'/allposts',
+      active:true
+    },
+    {
       name:'Login',
-      path:'/Login',
+      path:'/login',
       active:!authStatus
     },
     {
       name:'Signup',
-      path:'/Signup',
-      active:!authStatus
+      path:'/signup',
+      active:!authStatus,
+      
     },
     {
       name:'All Posts',

@@ -29,8 +29,7 @@ function App() {
         <div className="w-full flex-col flex flex-wrap justify-center items-center">
           <Header/>
           <main>
-            {/* <Outlet/> */}
-            <h1>Blog</h1>
+            <Outlet/>
           </main>
           <Footer/>
         </div>
